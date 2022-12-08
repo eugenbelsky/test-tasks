@@ -5,6 +5,7 @@
 docker build . -t eugnebelskyi/nginx-joynnginx-joyn:latest
 docker push eugnebelskyi/nginx-joynnginx-joyn:latest
 ```
+this image is already pushed to dockerhub
 
 run in [kind](https://kind.sigs.k8s.io/docs/user/quick-start/)
 
