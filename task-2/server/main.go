@@ -10,7 +10,7 @@ import (
 
 var count int
 
-// Book Struct
+// Program Struct
 type Program struct {
 	ID       int    `json:"id"`
 	Name     string `json:"name"`
